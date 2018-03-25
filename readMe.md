@@ -174,12 +174,12 @@ Exploration and Exploitation	Russ [link](Exploration and Exploitation)
 
 Hierarchical RL and Tranfer Learning [link](http://www.cs.cmu.edu/~rsalakhu/10703/Lecture_HRL.pdf)
 
-Recitation: Trajectory optimization - iterative LQR [link](Recitation: Trajectory optimization - iterative LQR)
+Recitation: Trajectory optimization - iterative LQR [link](https://katefvision.github.io/katefSlides/RECITATIONtrajectoryoptimization_katef.pdf)
 
-Transfer learning(2): Simulation to Real World [link](Transfer learning(2): Simulation to Real World)
+Transfer learning(2): Simulation to Real World [link](https://katefvision.github.io/katefSlides/sim2real.pdf)
 
-Memory Augmented RL	[link](Memory Augmented RL)
+Memory Augmented RL	[link](http://www.cs.cmu.edu/~rsalakhu/10703/Lecture_Memory.pdf)
 
-Learning to learn, one shot learning [link](Learning to learn, one shot learning)
+Learning to learn, one shot learning [link](https://katefvision.github.io/katefSlides/oneshotlearning_katef.pdf)
 
 
