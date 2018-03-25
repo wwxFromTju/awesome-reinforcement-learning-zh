@@ -1,8 +1,26 @@
 # 强化学习从入门到放弃的资料 
 
+
+ - [书](#书)
+  - [Reinforcement Learning: An Introduction](#Reinforcement Learning: An Introduction )
+  - [Reinforcement Learning: An Introduction ](#Reinforcement Learning: An Introduction )
+  
+
  - [课程](#课程)
   - [基础课程](#基础课程)
+    - [Rich Sutton 强化学习课程(Alberta)](#Rich Sutton 强化学习课程（Alberta）)
+    - [David Silver 强化学习课程（UCL）](#David Silver 强化学习课程（UCL）)
+    - [Stanford 强化学习课程](#Stanford 强化学习课程)
   - [深度DRL课程](#深度DRL课程)
+    - [UCB 深度强化学习课程](#UCB 深度强化学习课程)
+    - [CMU 深度强化学习课程](#CMU 深度强化学习课程)
+ 
+## 书
+### Reinforcement Learning: An Introduction 
+ Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction [link](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+### Algorithms for Reinforcement Learning
+ - Csaba Szepesvari, Algorithms for Reinforcement Learning [link](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
  
 ## 课程
 ## 基础课程
