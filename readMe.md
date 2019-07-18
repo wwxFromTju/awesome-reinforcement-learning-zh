@@ -23,7 +23,7 @@
        - [CMU 深度强化学习课程](#CMU-深度强化学习课程)
 
 ## 书
-### Reinforcement Learning: An Introduction 
+### Reinforcement Learning: An Introduction
 Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction 
 
 > 第二版的最终版： [link](http://incompleteideas.net/book/the-book-2nd.html)，因为官方的是放在 Google Doc 上，所以我就下载了一个放在 Github 上，如有需要可以从 [这里](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh) 自取。
