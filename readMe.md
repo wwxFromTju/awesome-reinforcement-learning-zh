@@ -3,7 +3,7 @@
 ##  目录
 
  - [书](#书)
-  - [Reinforcement Learning: An Introduction](#Reinforcement-Learning:-An-Introduction) 
+  - [Reinforcement Learning: An Introduction](#reinforcement-learning-an-introduction) 
   - [Algorithms for Reinforcement Learning](#Algorithms-for-Reinforcement-Learning)
   - [OpenAI Spinning Up](#OpenAI-Spinning-Up)
 
